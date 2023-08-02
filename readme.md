@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamzakamelen22" target="blank"><img src="https://img.shields.io/twitter/follow/hamzakamelen22?logo=twitter&style=for-the-badge" alt="hamzakamelen22" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [github.com/hamzakamelen](github.com/hamzakamelen)
 
