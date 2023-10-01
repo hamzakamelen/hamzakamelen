@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hamza Kamelen</h1>
-<h3 align="center">A Passionate MERN Stack Developer & Mobile App Developer</h3>
+<h3 align="center">A Passionate MERN Stack Web & Android App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakamelen&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakamelen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzakamelen" alt="hamzakamelen" /></a> </p>
 
-
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently working on **React Native & React JS**
 
 - 👨‍💻 All of my projects are available at [github.com/hamzakamelen](github.com/hamzakamelen)
 
-- 💬 Ask me about **React, React-Native, Express.js, MongoDB**
+- 💬 Ask me about **React JS, React-Native**
 
 - 📫 How to reach me **hamzakamelen12345@gmail.com**
 
