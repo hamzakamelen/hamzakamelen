@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzakamelen" alt="hamzakamelen" /></a> </p>
 
-- 🌱 Part of the team of RNC Styles (https://rncstyles.com/).
+- 🌱 Part of the team of **RNC_Styles** https://rncstyles.com
 - 🌱 I’m currently learning **Next JS**
 - 🌱 I’m currently working on **React Native & React JS**
 - 👨‍💻 All of my projects are available at [github.com/hamzakamelen](github.com/hamzakamelen)
