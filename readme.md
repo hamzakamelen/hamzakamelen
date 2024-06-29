@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakamelen&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakamelen" /> </p>
 
 - 🌱 Part of the team of **RNC_Styles** https://rncstyles.com
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 - 🌱 I’m currently working on **React Native & React JS**
 - 👨‍💻 All of my projects are available at [github.com/hamzakamelen](github.com/hamzakamelen)
 
