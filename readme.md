@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzakamelen&show_icons=true&locale=en" alt="hamzakamelen" /></p>
 
-<p align="center" ><img src="https://streak-stats.demolab.com?user=hamzakamelen&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align="left" ><img src="https://streak-stats.demolab.com?user=hamzakamelen&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=hamzakamelen&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </p>
 
