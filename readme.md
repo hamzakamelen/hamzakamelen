@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Kamelen</h1>
-<h3 align="center">A Passionate MERN Stack Web & Android App Developer</h3>
+<h3 align="center">BS-AI @DUET'26 | Aspiring AI Engineer | AI Enthusiast | React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzakamelen&label=Profile%20views&color=0e75b6&style=flat" alt="hamzakamelen" /> </p>
 
