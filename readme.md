@@ -121,13 +121,7 @@ I believe great work happens when human creativity meets AI capability — this 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzakamelen&show_icons=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzakamelen&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
-</p>
+## 📊 Activity & Streak
 
 <p align="center">
   <a href="https://git.io/streak-stats">
