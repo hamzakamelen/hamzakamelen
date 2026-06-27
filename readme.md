@@ -26,7 +26,7 @@
 
 ## Hey 👋
 
-I'm **Hamza** — a software engineer from Karachi who loves building with AI. Graduated with a **BS in Artificial Intelligence** from Dawood University (class of '26, **3.65 GPA**), and currently working as a **Junior Software Engineer at Codesy Consulting**.
+I'm **Hamza** — a software engineer from Karachi who loves building with AI. Graduated with a **BS in Artificial Intelligence** from Dawood University (class of '26, **3.65 CGPA**), and currently working as a **Junior Software Engineer at Codesy Consulting**.
 
 Most of my time goes into **LLMs, RAG pipelines, and multi-agent systems** — building production stuff, not just demos. I've also mentored 100+ developers across multiple cohorts on React, React Native & Node.js.
 
